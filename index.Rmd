@@ -182,7 +182,7 @@ class: inverse middle center
 ![](img/val3.jpg)
 ]
 
-c
+
 
 ---
 
@@ -341,14 +341,14 @@ class: middle center
 class: middle center
 
 .card[
-[.tidyverts[Economía Conductual y .orange[Ciencia de datos]]](https://besteamperu.org/)
+[.tidyverts[Economía Conductual y .orange[Ciencia de datos]]](http://besteamperu.org/)
 ]
 
 <br>
 
 .card[
 ![](img/best.png)
-[**BEST**](https://besteamperu.org/)
+[**BEST**](http://besteamperu.org/)
 ]
 
 ---
